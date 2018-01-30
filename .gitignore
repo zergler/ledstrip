@@ -1,0 +1,12 @@
+*.o
+*.a
+*.so
+*.swp
+*.swo
+*.orig
+tags
+build/
+log/
+html/
+latex/
+errors/
